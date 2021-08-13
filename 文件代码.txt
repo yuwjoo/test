@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 a1 a2
+=======
+a1
+b1
+>>>>>>> origin/master
